@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\bin\Debug\netcoreapp3.1\Coffee-Time.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Coffee-Time\Coffee-Time\obj\Debug\netcoreapp3.1\Coffee-Time.genruntimeconfig.cache
